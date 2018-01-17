@@ -1,0 +1,8 @@
+//document.querySelector('body') select by html tag//
+//document.querySelector('body').remove removes DOM tag//
+//document.querySelector("#firstHeading")// //find by class attribute #//
+//document.querySelector(".infobox").querySelector("span.deathplace").querySelector("a") strings querySelector together//
+//let marlyeboneAnchor =
+document.querySelector(".infobox").querySelector("span.deathplace").querySelector("a")
+maryleboneAnchor.constructor// //creates an html anchor//
+
